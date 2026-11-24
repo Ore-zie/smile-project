@@ -14,3 +14,13 @@ p {
     color: #800020;
     font-size: 18px;
 }
+
+h2 {
+    color: #800020;
+}
+
+progress {
+    width: 80%;
+    height: 25px;
+    accent-color: #800020;
+}
